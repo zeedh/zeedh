@@ -4,7 +4,7 @@ Perkenalkan nama saya **Zidan Dhiyaul Haq**.<br>
 
 Saya seorang **Mahasiswa Informatika** di [Universitas Muhammadiyah Surakarta](https://www.ums.ac.id/)).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://github.com/zeedh) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://github.com/zeedh) dan [Facebook](https://www.facebook.com/zidan.dhiyaulhaq/) ku ya.
 
 <p align="left">
 <a href="https://github.com/zeedh">
