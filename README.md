@@ -45,9 +45,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https:
 ---
 <h2 align='left'>Projects 🖥</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eventure-Capstone&repo=Backend-Eventure&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eventure-Capstone&repo=Backend-Eventure&show_owner=true&theme=dracula)](https://github.com/Eventure-Capstone/Backend-Eventure)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeedh&repo=notes-app-back-end&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeedh&repo=notes-app-back-end&show_owner=true&theme=dracula)](https://github.com/zeedh/notes-app-back-end)
  
 ---
  <h2 align="left">Tools & Technologies ⚡</h2>
