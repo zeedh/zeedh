@@ -48,6 +48,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eventure-Capstone&repo=Backend-Eventure&show_owner=true&theme=dracula)](https://github.com/Eventure-Capstone/Backend-Eventure)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeedh&repo=notes-app-back-end&show_owner=true&theme=dracula)](https://github.com/zeedh/notes-app-back-end)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zeedh&repo=cancer-detection-app-submissionmlgc-zidandh&show_owner=true&theme=dracula)](https://github.com/zeedh/cancer-detection-app-submissionmlgc-zidandh)
  
 ---
  <h2 align="left">Tools & Technologies ⚡</h2>
