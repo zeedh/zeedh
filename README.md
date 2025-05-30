@@ -54,7 +54,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https:
 ---
  <h2 align="left">Tools & Technologies ⚡</h2>
  <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,gcp,figma,js,express,nodejs,java,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,gcp,figma,js,express,nodejs,java,git,html,css" />
 </p>
 
 
